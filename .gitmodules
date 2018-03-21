@@ -1,0 +1,3 @@
+[submodule "vtapi"]
+	path = vtapi
+	url = git@github.com:fit-uifs/vtapi.git
